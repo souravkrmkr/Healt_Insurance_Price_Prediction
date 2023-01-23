@@ -1,1 +1,1 @@
-# Healt_Insurance_Price_Prediction
+# Health_Insurance_Price_Prediction
