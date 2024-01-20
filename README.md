@@ -13,3 +13,5 @@ For these sort of uncertainties, Health Insurance plays a saviour's role for alm
 As situation may vary, the need for medical expanses may also vary. It may depend on the treatment procedure and also depends on the seriousness of illness of the insured. Hence, the insured sum also varies from provider to provider. But, when the amount insured is very high, there is always a chance of fraudulent claims and the provider incurs a loss.
 
 To prevent such losses, predicting the suitable insurance cost to be provided to the customers can be proved to be beneficial in the health care/insurance field.
+
+Execute the python notebook (edited)
